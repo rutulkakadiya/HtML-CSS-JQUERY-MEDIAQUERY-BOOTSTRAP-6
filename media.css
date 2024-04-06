@@ -1,0 +1,42 @@
+@media (min-width: 993px) and (max-width: 1300px){
+
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    .box1{
+        display: none;
+    }
+    #icon1{
+        display: block;
+        margin-left: 50%;
+        margin-top: 30px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    .box1{
+        display: none;
+    }
+    #icon1{
+        display: block;
+        margin-left: 50%;
+        margin-top: 30px;
+    }
+    .headbox2{
+        display: none;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+    .box1{
+        display: none;
+    }
+    #icon1{
+        display: block;
+        margin-left: 50%;
+        margin-top: 30px;
+    }
+    .headbox2{
+        display: none;
+    }
+}
